@@ -3,8 +3,8 @@
 ## 🇮🇲 Franklin Jiang (江英进)
 
 - 🔭 I'm passionate about tinkering with things that interest me.
-- 🤔 I cares about both technology and how it serves society.
-- ⚛️ I follows through with systems engineering.
+- 🤔 I care about both technology and how it serves society.
+- ⚛️ I follow through with systems engineering.
 - 🕊️ I'm practicing the concept of "culture first".
 - 🧗 I'm trying to explore my own boundaries.
 
