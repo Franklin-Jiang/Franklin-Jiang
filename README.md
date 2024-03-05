@@ -1,4 +1,14 @@
-### Hi there 👋
+## ✨ Hello, comrade! 🫡
+
+### 🇮🇲 Franklin Jiang (江英进)
+
+- 🔭 I'm passionate about tinkering with things that interest me.
+- 🤔 I cares about both technology and how it serves society.
+- ⚛️ I follows through with systems engineering.
+- 🕊️ I'm practicing the concept of "culture first".
+- 🧗 I'm trying to explore my own boundaries.
+
+> 📧 Feel free to contact me via [Chief@Jiangyj.Tech](mailto:Chief@Jiangyj.Tech)
 
 <!--
 **Franklin-Jiang/Franklin-Jiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
