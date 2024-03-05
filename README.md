@@ -6,7 +6,7 @@
 - 🤔 I care about both technology and how it serves society.
 - ⚛️ I follow through with systems engineering.
 - 🕊️ I'm practicing the concept of "culture first".
-- 🧗 I'm trying to explore my own boundaries.
+- 🧗 I'm trying to broaden the boundaries of perception.
 
 > 📧 Feel free to contact me via [Chief@Jiangyj.Tech](mailto:Chief@Jiangyj.Tech)
 
